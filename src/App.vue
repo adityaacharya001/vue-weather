@@ -10,7 +10,7 @@
           <div class="date"> Monday October 17 2022</div>
         </div>
         <div class="weather-box">
-          <div class="temp">19°</div>
+          <div class="temp">20°</div>
           <div class="weather">Rain</div>
         </div>
       </div>
